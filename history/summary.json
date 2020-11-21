@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 29
+  },
+  {
+    "name": "Broken Site",
+    "url": "https://thissitedoesnotexist.com",
+    "slug": "broken-site",
+    "status": "down",
+    "uptime": "100.00",
+    "time": 0
+  },
+  {
+    "name": "Ceo",
+    "url": "https://ceo.ca",
+    "slug": "ceo",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 420
+  },
+  {
+    "name": "TradingView",
+    "url": "https://www.tradingview.com/",
+    "slug": "trading-view",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 774
+  },
+  {
+    "name": "Check if the shop site goes down.",
+    "url": "https://shop.syomortgage.com",
+    "slug": "check-if-the-shop-site-goes-down",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 377
+  }
+]
