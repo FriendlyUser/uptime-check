@@ -12,6 +12,8 @@ sites:
     url: https://ceo.ca
   - name: TradingView
     url: https://www.tradingview.com/
+  - name: Check if the shop site goes down.
+    url: https://shop.syomortgage.com
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
