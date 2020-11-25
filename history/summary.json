@@ -19,9 +19,9 @@
     "name": "Ceo",
     "url": "https://ceo.ca",
     "slug": "ceo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 249
+    "time": 259
   },
   {
     "name": "TradingView",
