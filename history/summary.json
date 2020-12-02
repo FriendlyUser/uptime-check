@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 60
+    "time": 61
   },
   {
     "name": "Broken Site",
@@ -29,7 +29,7 @@
     "slug": "trading-view",
     "status": "up",
     "uptime": "100.00%",
-    "time": 644
+    "time": 661
   },
   {
     "name": "Check if the shop site goes down.",
@@ -37,6 +37,6 @@
     "slug": "check-if-the-shop-site-goes-down",
     "status": "up",
     "uptime": "100.00%",
-    "time": 394
+    "time": 393
   }
 ]
